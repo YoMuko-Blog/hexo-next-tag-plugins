@@ -1,0 +1,15 @@
+{
+  "name": "hexo-next-tag-plugins",
+  "version": "1.0.0",
+  "description": "Tag plugins for NexT.",
+  "main": "index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
+  "author": "leafmoes",
+  "license": "MIT"
+}
